@@ -1,0 +1,7 @@
+#!/bin/bash
+Echo "Enter the name of directory"
+read name
+Echo "Print the name of directory"
+
+
+

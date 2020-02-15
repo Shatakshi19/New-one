@@ -1,0 +1,7 @@
+echo "enter any number"
+read num1
+echo "enter any number"
+read num2
+
+echo "sum of the number" : $[num1+num2]
+echo "multiply of number" : $[num1*num2]

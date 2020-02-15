@@ -1,0 +1,12 @@
+#!bin/bash
+age=21
+if [ $age -gt 18]
+then
+echo "you need old enough to drive im most places."
+fi
+#!bin/bash
+age=21
+if [ $age -gt 18]
+then
+echo "you need old enough to drive im most places."
+fi

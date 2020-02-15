@@ -1,0 +1,7 @@
+$ cat for1 .sh
+i=1
+for day in Mon Tue Wed Thr Fri
+do
+ echo "Weekday  $((i++)) :  $day"
+done
+
