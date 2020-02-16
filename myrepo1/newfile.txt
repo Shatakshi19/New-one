@@ -1,6 +1,8 @@
 this is new feature file
 adding a new file
 add a new line in newfile.txt
+added line4 in newfile.txt
+
 
 
 
