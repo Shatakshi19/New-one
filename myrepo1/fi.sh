@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Enter the name of directory"
+read name
+echo "Print the name of directory"
+mkdir /tmp
